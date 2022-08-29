@@ -1,0 +1,16 @@
+C:\Users\Aluno\Desktop\Cadastro-C-\Aula\obj\Debug\net5.0\Aula.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Cadastro-C-\Aula\obj\Debug\net5.0\Aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Cadastro-C-\Aula\obj\Debug\net5.0\Aula.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Cadastro-C-\Aula\obj\Debug\net5.0\Aula.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Cadastro-C-\Aula\obj\Debug\net5.0\Aula.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Cadastro-C-\Aula\bin\Debug\net5.0\Aula.exe
+C:\Users\Aluno\Desktop\Cadastro-C-\Aula\bin\Debug\net5.0\Aula.deps.json
+C:\Users\Aluno\Desktop\Cadastro-C-\Aula\bin\Debug\net5.0\Aula.runtimeconfig.json
+C:\Users\Aluno\Desktop\Cadastro-C-\Aula\bin\Debug\net5.0\Aula.runtimeconfig.dev.json
+C:\Users\Aluno\Desktop\Cadastro-C-\Aula\bin\Debug\net5.0\Aula.dll
+C:\Users\Aluno\Desktop\Cadastro-C-\Aula\bin\Debug\net5.0\ref\Aula.dll
+C:\Users\Aluno\Desktop\Cadastro-C-\Aula\bin\Debug\net5.0\Aula.pdb
+C:\Users\Aluno\Desktop\Cadastro-C-\Aula\obj\Debug\net5.0\Aula.dll
+C:\Users\Aluno\Desktop\Cadastro-C-\Aula\obj\Debug\net5.0\ref\Aula.dll
+C:\Users\Aluno\Desktop\Cadastro-C-\Aula\obj\Debug\net5.0\Aula.pdb
+C:\Users\Aluno\Desktop\Cadastro-C-\Aula\obj\Debug\net5.0\Aula.genruntimeconfig.cache
